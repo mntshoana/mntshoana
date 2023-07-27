@@ -8,4 +8,5 @@ I am a passionate full-stack software developer🇿🇦... Feel free to communic
 <br>
 **License**
 None
-![Alt text](/404.png "You just got 404'd")
+<br>
+![image alt](/404.png "You just got 404'd")
