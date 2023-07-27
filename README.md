@@ -6,5 +6,5 @@ Welcome to the profile that represents me through my work.
 <br> 
 I am a passionate full-stack software developer🇿🇦... Feel free to communicate or contribute!!!  
 <br>
-##License
+**License**
 ![Alt text](/404.png "You just got 404'd")
